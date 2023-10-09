@@ -20,7 +20,7 @@ def split_paragraph_to_dataframe(paragraph):
 def split_chars(text):
     return ' '.join(list(text))
 
-def one_hot(df):
+def one_hot(df,tf):
     test_line_number_one_hot = tf.one_hot(df['Line number'].to_numpy(), depth=15)
     test_total_lines_one_hot = tf.one_hot(df['Total lines'].to_numpy(),depth=20)
     return test_line_number_one_hot, test_total_lines_one_hot
