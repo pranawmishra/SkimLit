@@ -34,3 +34,4 @@ Feel free to explore the code and documentation to understand how the models are
 
 ## Link
 [PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071)
+[Link to Original dataset](https://github.com/Franck-Dernoncourt/pubmed-rct)
