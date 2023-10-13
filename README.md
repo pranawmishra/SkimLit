@@ -33,4 +33,4 @@ This project is inspired by and replicates the work of the original authors of t
 Feel free to explore the code and documentation to understand how the models are implemented and trained to classify sentences in research paper abstracts.
 
 ## Link
-[PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts]((https://arxiv.org/abs/1710.06071)https://arxiv.org/abs/1710.06071)
+[PubMed 200k RCT: a Dataset for Sequential Sentence Classification in Medical Abstracts](https://arxiv.org/abs/1710.06071)
